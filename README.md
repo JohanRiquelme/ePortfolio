@@ -1,3 +1,6 @@
+## Read me
+https://github.com/JohanRiquelme/johanna || Read me 👋 About Me, Johanna
+
 ## 📌 Portfolio Projects
 - Data Cleaning Project → improving raw data quality  
 - Titanic Data Analysis → identifying survival patterns  
